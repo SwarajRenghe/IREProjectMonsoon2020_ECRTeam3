@@ -7,8 +7,8 @@ Event Coreference Resolution in Social Media Text
 
 ## To set up the repo.
 ```
-git clone https://github.com/riz1-ali/Event-Coreference-Resolution-in-Social-Media-Text/
-cd Event-Coreference-Resolution-in-Social-Media-Text
+git clone https://github.com/SwarajRenghe/IREProjectMonsoon2020_ECRTeam3
+cd IREProjectMonsoon2020_ECRTeam3
 conda create -n EventCoref python=3.7
 conda activate EventCoref
 pip install -r requirements.txt
